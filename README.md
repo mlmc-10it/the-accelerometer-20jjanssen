@@ -6,10 +6,11 @@ How do I add images?
 
 A pie 
 
-A list of microcontrollers
+A list of popular microcontrollers
 * Raspberry Pi <br>
 ![A Pie](https://www.raspberrypi.org/app/themes/mind-control/images/home-products-cta__image.png)
 * MicroBit <br>
 ![Microbit](https://az742082.vo.msecnd.net/pub/jcjojcrc)
 * Arduino <br>
+![Arduino](https://cdn.arduino.cc/homepage/static/media/arduino-UNO.bcc69bde.png)
 
